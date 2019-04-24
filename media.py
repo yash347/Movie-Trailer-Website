@@ -1,7 +1,7 @@
 import webbrowser
 
-class Video():#it is not necessary class name should start with capital letter
-    #but as we follow google style guide for python, so we write in that way
+class Video():"""it is not necessary class name should start with capital letter
+    but as we follow google style guide for python, so we write in that way"""
     
     """ this parent class provides a way to store information related to video"""    
 
