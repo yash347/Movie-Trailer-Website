@@ -12,8 +12,7 @@ fast_and_furious = media.Movie("Fast & Furious 8",
                                "world of terrorism. The crew has to "
                                "reunite to stop Cipher and save the "
                                "man who brought them together as a family.",
-                               "https://upload.wikimedia.org/wikipedia/en/2"
-                               "/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",
+                               "https://upload.wikimedia.org/wikipedia/en/2/2d/The_Fate_of_The_Furious_Theatrical_Poster.jpg",  #NOQA
                                "https://www.youtube.com/watch?v=uisBaTkQAEs",
                                "PG")
 
@@ -21,8 +20,7 @@ fast_and_furious = media.Movie("Fast & Furious 8",
 avatar = media.Movie("Avatar", 
                      "2hrs 42mins", 
                      "A marine on an alien planet",
-                     "https://upload.wikimedia.org/wikipedia/sco/b/"
-                     "b0/Avatar-Teaser-Poster.jpg",
+                     "https://upload.wikimedia.org/wikipedia/sco/b/b0/Avatar-Teaser-Poster.jpg",  #NOQA
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY",
                      "G")
 
@@ -31,8 +29,7 @@ john_wick = media.Movie("John Wick",
                         "John Wick, a retired hitman grieving the "
                         "loss of his wife, is forced to "
                         "return to his old ways",
-                        "https://upload.wikimedia.org/wikipedia/en/9/98/"
-                        "John_Wick_TeaserPoster.jpg",
+                        "https://upload.wikimedia.org/wikipedia/en/9/98/John_Wick_TeaserPoster.jpg",  #NOQA
                         "https://www.youtube.com/watch?v=RllJtOw0USI",
                         "PG")
 
@@ -42,8 +39,7 @@ the_perfect_date = media.Movie("The Perfect Date",
                                "app to offer his services as a fake date "
                                "to make money for college. When he develops feelings "
                                "for someone, his plan gets complicated.",
-                               "https://upload.wikimedia.org/wikipedia/en/7/7a/"
-                               "The_Perfect_Date.jpg",
+                               "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Perfect_Date.jpg",  #NOQA
                                "https://www.youtube.com/watch?v=Hld-7oBn3Rk",
                                "R")
 
@@ -52,8 +48,7 @@ avengers = media.Movie("Avengers: Endgame",
                        "Adrift in space with no food or water, "
                        "Tony Stark sends a message to Pepper "
                        "Potts as his oxygen supply starts to dwindle.",
-                       "https://upload.wikimedia.org/wikipedia/en/0/0d/"
-                       "Avengers_Endgame_poster.jpg",
+                       "https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg",  #NOQA
                        "https://www.youtube.com/watch?v=TcMBFSGVi1c&t=2s",
                        "G")
 
