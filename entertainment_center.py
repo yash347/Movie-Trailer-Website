@@ -33,9 +33,9 @@ john_wick = media.Movie("John Wick",
 
 the_perfect_date = media.Movie("The Perfect Date",
                                "1hr 30mins",
-                               "A high school student creates an "
-                               "app to offer his services as a fake date "
-                               "to make money for college. When he develops feelings "
+                               "A high school student creates an app to offer "
+                               "his services as a fake date to make money for "
+                               "college. When he develops feelings "
                                "for someone, his plan gets complicated.",
                                "https://upload.wikimedia.org/wikipedia/en/7/7a/The_Perfect_Date.jpg",  # noqa
                                "https://www.youtube.com/watch?v=Hld-7oBn3Rk",
@@ -58,5 +58,6 @@ spectre = media.Movie("Spectre",
                       "https://www.youtube.com/watch?v=7GqClqvlObY",
                       "PG")
 
-movies = [fast_and_furious, avatar, john_wick, the_perfect_date, avengers, spectre]
+movies = [fast_and_furious, avatar, john_wick, the_perfect_date, avengers,
+          spectre]
 fresh_tomatoes.open_movies_page(movies)
